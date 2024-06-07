@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Dungeon
-build_property.ProjectDir = D:\Projects\PrivateRepository\Dungeon\
+build_property.ProjectDir = D:\Projects\PrivateRepository\DungeonGame\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

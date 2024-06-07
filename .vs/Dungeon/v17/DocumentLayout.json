@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\PrivateRepository\\DungeonGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4888416E-3BB4-466B-8792-C7EF6C895704}|Dungeon.csproj|d:\\projects\\privaterepository\\dungeongame\\models\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4888416E-3BB4-466B-8792-C7EF6C895704}|Dungeon.csproj|solutionrelative:models\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4888416E-3BB4-466B-8792-C7EF6C895704}|Dungeon.csproj|d:\\projects\\privaterepository\\dungeongame\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4888416E-3BB4-466B-8792-C7EF6C895704}|Dungeon.csproj|solutionrelative:models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4888416E-3BB4-466B-8792-C7EF6C895704}|Dungeon.csproj|d:\\projects\\privaterepository\\dungeongame\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4888416E-3BB4-466B-8792-C7EF6C895704}|Dungeon.csproj|solutionrelative:models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4888416E-3BB4-466B-8792-C7EF6C895704}|Dungeon.csproj|d:\\projects\\privaterepository\\dungeongame\\models\\fountainroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4888416E-3BB4-466B-8792-C7EF6C895704}|Dungeon.csproj|solutionrelative:models\\fountainroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4888416E-3BB4-466B-8792-C7EF6C895704}|Dungeon.csproj|d:\\projects\\privaterepository\\dungeongame\\models\\fightingroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4888416E-3BB4-466B-8792-C7EF6C895704}|Dungeon.csproj|solutionrelative:models\\fightingroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4888416E-3BB4-466B-8792-C7EF6C895704}|Dungeon.csproj|d:\\projects\\privaterepository\\dungeongame\\models\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4888416E-3BB4-466B-8792-C7EF6C895704}|Dungeon.csproj|solutionrelative:models\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4888416E-3BB4-466B-8792-C7EF6C895704}|Dungeon.csproj|d:\\projects\\privaterepository\\dungeongame\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4888416E-3BB4-466B-8792-C7EF6C895704}|Dungeon.csproj|solutionrelative:models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Character.cs",
+              "DocumentMoniker": "D:\\Projects\\PrivateRepository\\DungeonGame\\Models\\Character.cs",
+              "RelativeDocumentMoniker": "Models\\Character.cs",
+              "ToolTip": "D:\\Projects\\PrivateRepository\\DungeonGame\\Models\\Character.cs",
+              "RelativeToolTip": "Models\\Character.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T10:12:47.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\Projects\\PrivateRepository\\DungeonGame\\Models\\Player.cs",
+              "RelativeDocumentMoniker": "Models\\Player.cs",
+              "ToolTip": "D:\\Projects\\PrivateRepository\\DungeonGame\\Models\\Player.cs",
+              "RelativeToolTip": "Models\\Player.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T05:17:47.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "D:\\Projects\\PrivateRepository\\DungeonGame\\Models\\Enemy.cs",
+              "RelativeDocumentMoniker": "Models\\Enemy.cs",
+              "ToolTip": "D:\\Projects\\PrivateRepository\\DungeonGame\\Models\\Enemy.cs",
+              "RelativeToolTip": "Models\\Enemy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T05:06:19.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Game.cs",
+              "DocumentMoniker": "D:\\Projects\\PrivateRepository\\DungeonGame\\Models\\Game.cs",
+              "RelativeDocumentMoniker": "Models\\Game.cs",
+              "ToolTip": "D:\\Projects\\PrivateRepository\\DungeonGame\\Models\\Game.cs",
+              "RelativeToolTip": "Models\\Game.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF4AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T05:23:04.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Room.cs",
+              "DocumentMoniker": "D:\\Projects\\PrivateRepository\\DungeonGame\\Models\\Room.cs",
+              "RelativeDocumentMoniker": "Models\\Room.cs",
+              "ToolTip": "D:\\Projects\\PrivateRepository\\DungeonGame\\Models\\Room.cs",
+              "RelativeToolTip": "Models\\Room.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T05:07:58.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FountainRoom.cs",
+              "DocumentMoniker": "D:\\Projects\\PrivateRepository\\DungeonGame\\Models\\FountainRoom.cs",
+              "RelativeDocumentMoniker": "Models\\FountainRoom.cs",
+              "ToolTip": "D:\\Projects\\PrivateRepository\\DungeonGame\\Models\\FountainRoom.cs",
+              "RelativeToolTip": "Models\\FountainRoom.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T07:26:21.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FightingRoom.cs",
+              "DocumentMoniker": "D:\\Projects\\PrivateRepository\\DungeonGame\\Models\\FightingRoom.cs",
+              "RelativeDocumentMoniker": "Models\\FightingRoom.cs",
+              "ToolTip": "D:\\Projects\\PrivateRepository\\DungeonGame\\Models\\FightingRoom.cs",
+              "RelativeToolTip": "Models\\FightingRoom.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T07:26:06.132Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

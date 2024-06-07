@@ -1,28 +1,27 @@
 ﻿namespace Dungeon.Models
 {
-	class Player
+	class Player : Character
 	{
-		public int Health { get; private set; }
-		public int MaxHealth { get; private set; }
+		public int MaxHealth { get; set; }
+        public int HealthPointsRecieveCount { get; private set; }
 
-		public Player()
+		private int healthPointsRecieveCount = 30 ;
+
+		public Player(int maxHealth = 100, int damageReceiveCount = 10) : base(maxHealth, damageReceiveCount)
 		{
-			MaxHealth = 100;
+			MaxHealth = maxHealth;
 			Health = MaxHealth;
+			HealthPointsRecieveCount = healthPointsRecieveCount;
+			DamageReceiveCount = damageReceiveCount;
 		}
 
-		public void TakeDamage(int damage)
+		public void ReceiveHealthPoints(int healthPoint)
 		{
-			Health -= damage;
-			if (Health < 0)
-			{
-				Health = 0;
-			}
-		}
+			if (healthPoint <= 0)
+				throw new ArgumentException(nameof(healthPoint));
 
-		public void Heal(int amount)
-		{
-			Health += amount;
+			Health += healthPoint;
+
 			if (Health > MaxHealth)
 			{
 				Health = MaxHealth;

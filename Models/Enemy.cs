@@ -1,26 +1,11 @@
 ﻿namespace Dungeon.Models
 {
-	class Enemy
+	class Enemy : Character
 	{
-		public int Health { get; private set; }
-
-		public Enemy(int health)
+		public Enemy(int health, int damageReceiveCount) : base(health, damageReceiveCount)
 		{
 			Health = health;
-		}
-
-		public int Attack()
-		{
-			return 10;
-		}
-
-		public void TakeDamage(int damage)
-		{
-			Health -= damage;
-			if (Health < 0)
-			{
-				Health = 0;
-			}
+			DamageReceiveCount = damageReceiveCount;
 		}
 	}
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\PrivateRepository\\Dungeon\\Dungeon.csproj": {}
+    "D:\\Projects\\PrivateRepository\\DungeonGame\\Dungeon.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\PrivateRepository\\Dungeon\\Dungeon.csproj": {
+    "D:\\Projects\\PrivateRepository\\DungeonGame\\Dungeon.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\PrivateRepository\\Dungeon\\Dungeon.csproj",
+        "projectUniqueName": "D:\\Projects\\PrivateRepository\\DungeonGame\\Dungeon.csproj",
         "projectName": "Dungeon",
-        "projectPath": "D:\\Projects\\PrivateRepository\\Dungeon\\Dungeon.csproj",
+        "projectPath": "D:\\Projects\\PrivateRepository\\DungeonGame\\Dungeon.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\PrivateRepository\\Dungeon\\obj\\",
+        "outputPath": "D:\\Projects\\PrivateRepository\\DungeonGame\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
