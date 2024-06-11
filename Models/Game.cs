@@ -87,12 +87,12 @@
 			{
 				new Room(enterDungeonMessage),
 				new Room(emptyRoomMessage),
-				new FightingRoom(enemyInTheRoomMessage, new Enemy(10, 10)),
-				new FightingRoom(enemyInTheRoomMessage, new Enemy(15, 10)),
+				new FightingRoom(enemyInTheRoomMessage, new Character(10, 10)),
+				new FightingRoom(enemyInTheRoomMessage, new Character(15, 10)),
 				new Room(emptyRoomMessage),
 				new FountainRoom(fountainOfHealingMessage, isHealingFountain: true),
-				new FightingRoom(enemyInTheRoomMessage, new Enemy(20, 10)),
-				new FightingRoom(bossInTheRoomMessage, new Enemy(50, 10)),
+				new FightingRoom(enemyInTheRoomMessage, new Character(20, 10)),
+				new FightingRoom(bossInTheRoomMessage, new Character(50, 10)),
 				new Room(exitDungeonMessage)
 			};
 			return rooms;

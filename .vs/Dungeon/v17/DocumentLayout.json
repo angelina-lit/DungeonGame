@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{4888416E-3BB4-466B-8792-C7EF6C895704}|Dungeon.csproj|solutionrelative:models\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{4888416E-3BB4-466B-8792-C7EF6C895704}|Dungeon.csproj|d:\\projects\\privaterepository\\dungeongame\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4888416E-3BB4-466B-8792-C7EF6C895704}|Dungeon.csproj|solutionrelative:models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4888416E-3BB4-466B-8792-C7EF6C895704}|Dungeon.csproj|d:\\projects\\privaterepository\\dungeongame\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4888416E-3BB4-466B-8792-C7EF6C895704}|Dungeon.csproj|solutionrelative:models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,20 +19,12 @@
       "RelativeMoniker": "D:0:0:{4888416E-3BB4-466B-8792-C7EF6C895704}|Dungeon.csproj|solutionrelative:models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4888416E-3BB4-466B-8792-C7EF6C895704}|Dungeon.csproj|d:\\projects\\privaterepository\\dungeongame\\models\\fountainroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4888416E-3BB4-466B-8792-C7EF6C895704}|Dungeon.csproj|solutionrelative:models\\fountainroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\PrivateRepository\\DungeonGame\\Models\\FountainRoom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\FountainRoom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4888416E-3BB4-466B-8792-C7EF6C895704}|Dungeon.csproj|d:\\projects\\privaterepository\\dungeongame\\models\\fightingroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4888416E-3BB4-466B-8792-C7EF6C895704}|Dungeon.csproj|solutionrelative:models\\fightingroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4888416E-3BB4-466B-8792-C7EF6C895704}|Dungeon.csproj|d:\\projects\\privaterepository\\dungeongame\\models\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4888416E-3BB4-466B-8792-C7EF6C895704}|Dungeon.csproj|solutionrelative:models\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4888416E-3BB4-466B-8792-C7EF6C895704}|Dungeon.csproj|d:\\projects\\privaterepository\\dungeongame\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4888416E-3BB4-466B-8792-C7EF6C895704}|Dungeon.csproj|solutionrelative:models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\PrivateRepository\\DungeonGame\\Models\\FightingRoom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\FightingRoom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -55,7 +51,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Player.cs",
               "DocumentMoniker": "D:\\Projects\\PrivateRepository\\DungeonGame\\Models\\Player.cs",
               "RelativeDocumentMoniker": "Models\\Player.cs",
@@ -68,33 +64,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Enemy.cs",
-              "DocumentMoniker": "D:\\Projects\\PrivateRepository\\DungeonGame\\Models\\Enemy.cs",
-              "RelativeDocumentMoniker": "Models\\Enemy.cs",
-              "ToolTip": "D:\\Projects\\PrivateRepository\\DungeonGame\\Models\\Enemy.cs",
-              "RelativeToolTip": "Models\\Enemy.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T05:06:19.772Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Game.cs",
               "DocumentMoniker": "D:\\Projects\\PrivateRepository\\DungeonGame\\Models\\Game.cs",
               "RelativeDocumentMoniker": "Models\\Game.cs",
               "ToolTip": "D:\\Projects\\PrivateRepository\\DungeonGame\\Models\\Game.cs",
               "RelativeToolTip": "Models\\Game.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF4AAAA7AAAA",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAIwGQAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-07T05:23:04.979Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Room.cs",
               "DocumentMoniker": "D:\\Projects\\PrivateRepository\\DungeonGame\\Models\\Room.cs",
               "RelativeDocumentMoniker": "Models\\Room.cs",
@@ -107,7 +90,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "FountainRoom.cs",
               "DocumentMoniker": "D:\\Projects\\PrivateRepository\\DungeonGame\\Models\\FountainRoom.cs",
               "RelativeDocumentMoniker": "Models\\FountainRoom.cs",
@@ -120,13 +103,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "FightingRoom.cs",
               "DocumentMoniker": "D:\\Projects\\PrivateRepository\\DungeonGame\\Models\\FightingRoom.cs",
               "RelativeDocumentMoniker": "Models\\FightingRoom.cs",
               "ToolTip": "D:\\Projects\\PrivateRepository\\DungeonGame\\Models\\FightingRoom.cs",
               "RelativeToolTip": "Models\\FightingRoom.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAADAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-07T07:26:06.132Z",
               "EditorCaption": ""

@@ -2,11 +2,11 @@
 {
 	class FightingRoom : Room
 	{
-		public Enemy Enemy { get; set; }
+		public Character Character { get; set; }
 
-		public FightingRoom(string description, Enemy enemy = null) : base(description)
+		public FightingRoom(string description, Character сharacter = null) : base(description)
 		{
-			Enemy = enemy;
+			Character = сharacter;
 		}
 
 		public override void Enter(Player player)
@@ -21,10 +21,10 @@
 		{
 			Console.WriteLine("Враг атакует!");
 
-			while (player.Health > 0 || Enemy.Health > 0)
+			while (player.Health > 0 || Character.Health > 0)
 			{
 				Console.WriteLine($"Ваше здоровье: {player.Health}");
-				Console.WriteLine($"Здоровье врага: {Enemy.Health}");
+				Console.WriteLine($"Здоровье врага: {Character.Health}");
 
 				FightOrFlight(player);
 
@@ -44,7 +44,7 @@
 			{
 				case "1":
 					player.ReceiveDamage(player.DamageReceiveCount);
-					Enemy.ReceiveDamage(Enemy.DamageReceiveCount);
+					Character.ReceiveDamage(Character.DamageReceiveCount);
 					break;
 				case "2":
 					Console.WriteLine("Вы убежали от врага!");
@@ -57,7 +57,7 @@
 
 		private bool IsPlayerWin(Player player)
 		{
-			if (Enemy.Health <= 0)
+			if (Character.Health <= 0)
 			{
 				Console.WriteLine("Вы победили врага и получили награду!");
 				return true;
