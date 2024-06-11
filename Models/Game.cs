@@ -15,7 +15,7 @@
 
 		public Game()
 		{
-			player = new Player();
+			player = new Player(100, 10);
 			dungeons = CreateDungeon();
 			currentRoomIndex = 0;
 		}

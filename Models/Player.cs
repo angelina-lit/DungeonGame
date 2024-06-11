@@ -5,9 +5,9 @@
 		public int MaxHealth { get; set; }
         public int HealthPointsRecieveCount { get; private set; }
 
-		private int healthPointsRecieveCount = 30 ;
+		private int healthPointsRecieveCount = 30;
 
-		public Player(int maxHealth = 100, int damageReceiveCount = 10) : base(maxHealth, damageReceiveCount)
+		public Player(int maxHealth, int damageReceiveCount) : base(maxHealth, damageReceiveCount)
 		{
 			MaxHealth = maxHealth;
 			Health = MaxHealth;
