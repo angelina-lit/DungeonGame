@@ -2,11 +2,8 @@
 {
 	class FountainRoom : Room
 	{
-		public bool IsHealingFountain { get; set; }
-
-		public FountainRoom(string description, bool isHealingFountain = false) : base(description)
+		public FountainRoom(string description) : base(description)
 		{
-			IsHealingFountain = isHealingFountain;
 		}
 
 		public override void Enter(Player player)
